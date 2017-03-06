@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Next Page</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="capture_stop">Capture/Stop</string>
+    <string name="button">Submit</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="get_list_of_books">Get List Of Books</string>
+    <string name="this_is_placeholder_text">This is placeholder Text</string>
+
+</resources>
