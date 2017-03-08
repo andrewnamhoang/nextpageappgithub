@@ -13,17 +13,6 @@
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:inputType="textPersonName"
-        android:ems="10"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="558dp"
-        android:id="@+id/editText5"
-        android:hint="User Name" />
-
-    <EditText
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
         android:inputType="textPassword"
         android:ems="10"
         android:layout_below="@+id/editText5"
@@ -39,5 +28,16 @@
         android:id="@+id/subButton"
         android:layout_marginTop="40dp"
         android:layout_below="@+id/editText6"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_marginTop="194dp"
+        android:id="@+id/editText5"
+        android:hint="User Name"
+        android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
 </RelativeLayout>

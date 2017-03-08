@@ -11,5 +11,10 @@
     <string name="password">Password</string>
     <string name="get_list_of_books">Get List Of Books</string>
     <string name="this_is_placeholder_text">This is placeholder Text</string>
+    <string name="send_list_of_books">Send List Of Books</string>
+    <string name="string_send_list_of_books" />
+    <string name="refreshing">refreshing</string>
+    <string name="please_wait">pleasewait</string>
+    <string name="newname">Name</string>
 
 </resources>
